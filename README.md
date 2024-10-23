@@ -20,7 +20,7 @@ This map helps identify areas of low enrollment to target outreach along with th
 
 ## 2 Enrollment Gap
 
-Enrollment gap is defined as the 
+Enrollment gap is the number of owner occupied residences (estimate from ACS 5 year estimates from 2022) that are not enrolled in either Homestead or LOOP (internal Department of Revenue data)
 
 <iframe
     src="https://data-and-research-phila-dept-of-revenue.github.io/enrollment-gaps/figs/enrollmentGap.html"
@@ -30,7 +30,9 @@ Enrollment gap is defined as the
     scrolling="no">
 </iframe>
 
-Highest concentration of
+The above map shows the enrollment gap across census tracts in Philadelphia. Darker shade indicates relativerly higher enrollment gap. 
+
+Most of the enrollment gap is are concentrated in the northeastern part of the city, with a few census tracts in the center and southwest also showing relatively high gaps. Grayed-out tracts indicate areas with insufficient data.  
 
 
 <iframe
@@ -41,7 +43,7 @@ Highest concentration of
     scrolling="no">
 </iframe>
 
-
+Due to different indicendes of owner 
 
 ### 2.1 North Philadelphia - Comparing Tracts
 
