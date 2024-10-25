@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="styles.css">
+
 # Outreach Data Tool
 
 This data tool uses internal geospatial data on current enrollment in two assistance programs for homeowner-occupied residential properties - **Homestead Exemption and LOOP** - and compares it against the number of owner-occupied houses in each census tract, provided by the American Community Survey (ACS) published by the Census Bureau. 

@@ -1,0 +1,4 @@
+/* This targets the link back to the repository on GitHub Pages */
+a[href$="README.md"] {
+    display: none;
+}
