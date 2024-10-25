@@ -32,7 +32,7 @@ Below maps visualize total enrollment gap in absolute and percent terms to ident
     scrolling="no">
 </iframe>
 
-Note: The above map visualizes enrollment <ins>gap</ins> percent rather than just enrollment percent. (see [Calculation](#calculation))
+<ins>Note</ins>: The above map visualizes enrollment <ins>gap</ins> percent rather than just enrollment percent. (see [Calculation](#calculation))
 
 
 ## Total Enrollment - Council Districts
@@ -47,4 +47,4 @@ The map below vislualizes enrollment in Homestead and LOOP across Council Distri
     scrolling="no">
 </iframe>
 
-Note: Calculating the enrollment gap for each council district is complex, as census tracts do not align perfectly with council district boundaries. Since ACS data on owner-occupied residences is not broken down by council district, it cannot be directly used to assign values to specific districts when a single census tract overlaps multiple districts.
+<ins>Note</ins>: Calculating the enrollment gap for each council district is complex, as census tracts do not align perfectly with council district boundaries. Since ACS data on owner-occupied residences is not broken down by council district, it cannot be directly used to assign values to specific districts when a single census tract overlaps multiple districts.
