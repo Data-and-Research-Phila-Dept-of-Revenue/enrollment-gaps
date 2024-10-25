@@ -13,24 +13,20 @@ This data tool shows a map highlighting total enrollment gapa and in percent ter
 
 ### Maps
 
-<div style="display: flex; justify-content: space-between;">
-  <!-- First Plot -->
-  <iframe
-      src="https://data-and-research-phila-dept-of-revenue.github.io/enrollment-gaps/figs/enrollmentGap.html"
-      width="49%"
-      height="600"
-      frameborder="0"
-      scrolling="no">
-  </iframe>
+<iframe
+    src="https://data-and-research-phila-dept-of-revenue.github.io/enrollment-gaps/figs/enrollmentGap.html"
+    width="100%"
+    height="600"
+    frameborder="0"
+    scrolling="no">
+</iframe>
 
-  <!-- Second Plot -->
-  <iframe
-      src="https://data-and-research-phila-dept-of-revenue.github.io/enrollment-gaps/figs/enrollmentGapPercent.html"
-      width="49%"
-      height="600"
-      frameborder="0"
-      scrolling="no">
-  </iframe>
-</div>
 
+<iframe
+    src="https://data-and-research-phila-dept-of-revenue.github.io/enrollment-gaps/figs/enrollmentGapPercent.html"
+    width="100%"
+    height="600"
+    frameborder="0"
+    scrolling="no">
+</iframe>
 
