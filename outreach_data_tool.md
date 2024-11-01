@@ -17,7 +17,7 @@ Below maps visualize total enrollment gap in absolute and percent terms to ident
 
 <iframe
     src="https://data-and-research-phila-dept-of-revenue.github.io/enrollment-gaps/figs/enrollmentGap_cdBound.html"
-    width="100%"
+    width="90%"
     height="600"
     frameborder="0"
     scrolling="no">
