@@ -16,7 +16,7 @@ Below maps visualize total enrollment gap in absolute and percent terms to ident
 ### Maps
 
 <iframe
-    src="https://data-and-research-phila-dept-of-revenue.github.io/enrollment-gaps/figs/enrollmentGap.html"
+    src="https://data-and-research-phila-dept-of-revenue.github.io/enrollment-gaps/figs/enrollmentGap_cdBound.html"
     width="100%"
     height="600"
     frameborder="0"
@@ -25,7 +25,7 @@ Below maps visualize total enrollment gap in absolute and percent terms to ident
 
 
 <iframe
-    src="https://data-and-research-phila-dept-of-revenue.github.io/enrollment-gaps/figs/enrollmentGapPercent.html"
+    src="https://data-and-research-phila-dept-of-revenue.github.io/enrollment-gaps/figs/enrollmentGapPercent_cdBound.html"
     width="100%"
     height="600"
     frameborder="0"
