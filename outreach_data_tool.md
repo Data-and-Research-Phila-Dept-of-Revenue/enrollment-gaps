@@ -17,7 +17,7 @@ Below maps visualize total enrollment gap in absolute and percent terms to ident
 
 <iframe
     src="https://data-and-research-phila-dept-of-revenue.github.io/enrollment-gaps/figs/enrollmentGap_cdBound.html"
-    width="90%"
+    width="100%"
     height="600"
     frameborder="0"
     scrolling="no">
@@ -48,3 +48,13 @@ The map below vislualizes enrollment in Homestead and LOOP across Council Distri
 </iframe>
 
 <ins>Note</ins>: Calculating the enrollment gap for each council district is complex, as census tracts do not align perfectly with council district boundaries. Since ACS data on owner-occupied residences is not broken down by council district, it cannot be directly used to assign values to specific districts when a single census tract overlaps multiple districts.
+
+## Absolute Enrollment Gap Categorization
+
+<iframe
+    src="https://data-and-research-phila-dept-of-revenue.github.io/enrollment-gaps/figs/enrollmentGap_cdBound_category.html"
+    width="100%"
+    height="600"
+    frameborder="0"
+    scrolling="no">
+</iframe>
